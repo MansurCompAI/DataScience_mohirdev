@@ -1,4 +1,4 @@
 # DataScience_mohirdev
 Mohirdev.uz 
 
-Next
+# Data Science va Sun'iy Intellekt Praktikum
